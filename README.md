@@ -26,3 +26,11 @@ You will also see any lint errors in the console.
 
 Launches the Desktop Application.<br />
 
+
+
+## Also See: Multi-page Desktop Application with ReactJs and ElectronJs
+
+Clones the app from the github.<br />
+[https://github.com/Abduliitr/multipageDesktopApp](https://github.com/Abduliitr/multipageDesktopApp)
+
+
